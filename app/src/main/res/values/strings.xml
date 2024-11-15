@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Movies App</string>
+    <string name="app_name">PelisFlix App</string>
     <string name="title_movies">Top Movies</string>
     <string name="content_description_media">image-movie</string>
     <string name="movie_title">Lorem Ipsum</string>
